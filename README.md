@@ -417,6 +417,3 @@ File `Bao_Cao_Ky_Thuat_Product_Comparison_RAG.pdf` sẽ được tạo tự đ�
 Khi server đang khởi chạy, truy cập tài liệu API tương tác tại:
 - **Swagger UI**: [http://localhost:8000/docs](http://localhost:8000/docs)
 - **ReDoc**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
-#   l a p t o p - r a g - c o p i l o t 
- 
- 
